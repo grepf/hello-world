@@ -1,2 +1,4 @@
 # hello-world
-just test the process
+Hi man,i am using github to complete my frist test,
+it seems good!
+thank you,github contributor!
